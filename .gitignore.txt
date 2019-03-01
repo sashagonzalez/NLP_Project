@@ -1,0 +1,5 @@
+.idea/
+.idea/workspace.xml
+hw6-responses.tsv
+hw7-responses.tsv
+train_my_answers.txt
